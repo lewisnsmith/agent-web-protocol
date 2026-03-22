@@ -24,7 +24,7 @@ Rather than building new base-layer infrastructure, AEXP composes on top of exis
 
 ## The Goal
 
-AEXP shifts the paradigm from *Computer Use Agents* to *Native Web Integration*. By establishing a secure, verifiable moltbook of the human web, AEXP ensures that agents can operate faster, cheaper, and reliably, leaving the human web to humans.
+AEXP shifts the paradigm from *Computer Use Agents* to *Native Web Integration*. By establishing a secure, verifiable, essentially moltbook of the human web, AEXP ensures that agents can operate faster, cheaper, and reliably, leaving the human web to humans.
 
 ---
 
